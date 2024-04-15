@@ -1,0 +1,12 @@
+D:\Assesments_infinite\Projects\ReservationSys\ReservationSys\bin\Debug\ReservationSys.exe.config
+D:\Assesments_infinite\Projects\ReservationSys\ReservationSys\bin\Debug\ReservationSys.exe
+D:\Assesments_infinite\Projects\ReservationSys\ReservationSys\bin\Debug\ReservationSys.pdb
+D:\Assesments_infinite\Projects\ReservationSys\ReservationSys\bin\Debug\EntityFramework.dll
+D:\Assesments_infinite\Projects\ReservationSys\ReservationSys\bin\Debug\EntityFramework.SqlServer.dll
+D:\Assesments_infinite\Projects\ReservationSys\ReservationSys\bin\Debug\EntityFramework.xml
+D:\Assesments_infinite\Projects\ReservationSys\ReservationSys\bin\Debug\EntityFramework.SqlServer.xml
+D:\Assesments_infinite\Projects\ReservationSys\ReservationSys\obj\Debug\ReservationSys.csproj.CoreCompileInputs.cache
+D:\Assesments_infinite\Projects\ReservationSys\ReservationSys\obj\Debug\ReservationSys.csproj.CopyComplete
+D:\Assesments_infinite\Projects\ReservationSys\ReservationSys\obj\Debug\ReservationSys.exe
+D:\Assesments_infinite\Projects\ReservationSys\ReservationSys\obj\Debug\ReservationSys.pdb
+D:\Assesments_infinite\Projects\ReservationSys\ReservationSys\obj\Debug\ReservationSys.csproj.AssemblyReference.cache
