@@ -28,6 +28,7 @@ namespace ReservationSys
         public double TotalFare { get; set; }
         public System.DateTime Booking_Date_Time { get; set; }
         public string Status { get; set; }
+        public Nullable<int> No_of_Seats { get; set; }
     
         public virtual Train_Details Train_Details { get; set; }
         public virtual User_details User_details { get; set; }

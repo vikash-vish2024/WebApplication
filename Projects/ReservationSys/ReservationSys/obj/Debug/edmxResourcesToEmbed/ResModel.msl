@@ -13,6 +13,7 @@
     <EntitySetMapping Name="Booked_Ticket">
       <EntityTypeMapping TypeName="Reservation_SysModel.Booked_Ticket">
         <MappingFragment StoreEntitySet="Booked_Ticket">
+          <ScalarProperty Name="No_of_Seats" ColumnName="No-of-Seats" />
           <ScalarProperty Name="PNR_No" ColumnName="PNR-No" />
           <ScalarProperty Name="User_id" ColumnName="User-id" />
           <ScalarProperty Name="Train_No" ColumnName="Train-No" />

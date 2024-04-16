@@ -24,6 +24,7 @@
           <Property Name="TotalFare" Type="float" Nullable="false" />
           <Property Name="Booking-Date-Time" Type="datetime" Nullable="false" />
           <Property Name="Status" Type="varchar" MaxLength="15" />
+          <Property Name="No-of-Seats" Type="int" />
         </EntityType>
         <EntityType Name="Canceled_Ticket">
           <Key>
@@ -314,6 +315,7 @@ warning 6002: The table/view 'Reservation_Sys.dbo.Seat_Availability' does not ha
           <NavigationProperty Name="User_details" Relationship="Self.FK__Booked_Ti__User___440B1D61" FromRole="Booked_Ticket" ToRole="User_details" />
           <NavigationProperty Name="Canceled_Ticket" Relationship="Self.FK__Canceled___PNR_N__5CD6CB2B" FromRole="Booked_Ticket" ToRole="Canceled_Ticket" />
           <NavigationProperty Name="Passengers" Relationship="Self.FK__Passenger__PNR_N__6D0D32F4" FromRole="Booked_Ticket" ToRole="Passenger" />
+          <Property Name="No_of_Seats" Type="Int32" />
         </EntityType>
         <EntityType Name="Canceled_Ticket">
           <Key>
@@ -585,6 +587,7 @@ warning 6002: The table/view 'Reservation_Sys.dbo.Seat_Availability' does not ha
           <EntitySetMapping Name="Booked_Ticket">
             <EntityTypeMapping TypeName="Reservation_SysModel.Booked_Ticket">
               <MappingFragment StoreEntitySet="Booked_Ticket">
+                <ScalarProperty Name="No_of_Seats" ColumnName="No-of-Seats" />
                 <ScalarProperty Name="PNR_No" ColumnName="PNR-No" />
                 <ScalarProperty Name="User_id" ColumnName="User-id" />
                 <ScalarProperty Name="Train_No" ColumnName="Train-No" />

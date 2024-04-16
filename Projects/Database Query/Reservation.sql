@@ -206,3 +206,9 @@ alter table booked_ticket drop column  [passanger-age]
 
 select * from Booked_Ticket
 select * from passenger
+
+delete  from Booked_Ticket
+select * from Canceled_Ticket
+
+delete from Canceled_Ticket
+alter table Booked_ticket add [No-of-Seats] int

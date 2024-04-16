@@ -19,6 +19,7 @@
     <Property Name="TotalFare" Type="float" Nullable="false" />
     <Property Name="Booking-Date-Time" Type="datetime" Nullable="false" />
     <Property Name="Status" Type="varchar" MaxLength="15" />
+    <Property Name="No-of-Seats" Type="int" />
   </EntityType>
   <EntityType Name="Canceled_Ticket">
     <Key>

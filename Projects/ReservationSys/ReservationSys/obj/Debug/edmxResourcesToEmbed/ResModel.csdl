@@ -23,6 +23,7 @@
     <NavigationProperty Name="User_details" Relationship="Self.FK__Booked_Ti__User___440B1D61" FromRole="Booked_Ticket" ToRole="User_details" />
     <NavigationProperty Name="Canceled_Ticket" Relationship="Self.FK__Canceled___PNR_N__5CD6CB2B" FromRole="Booked_Ticket" ToRole="Canceled_Ticket" />
     <NavigationProperty Name="Passengers" Relationship="Self.FK__Passenger__PNR_N__6D0D32F4" FromRole="Booked_Ticket" ToRole="Passenger" />
+    <Property Name="No_of_Seats" Type="Int32" />
   </EntityType>
   <EntityType Name="Canceled_Ticket">
     <Key>
