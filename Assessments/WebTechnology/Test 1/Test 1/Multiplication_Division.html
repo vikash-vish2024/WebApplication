@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <h2>Calculator</h2>
+    <h5>Ques: 1</h5>
+    <div>
+        <label for="num1">1st Number:</label>
+         <input type="number" id="num1">
+    </div>
+    <br />
+    <div>
+        <label for="num2">2nd Number:</label>
+        <input type="number" id="num2">
+    </div>
+    <br />
+    <button onclick="calMultiplication()">Multiplication</button>
+    <button onclick="calDivision()">Division</button>
+
+    <div id="result"></div>
+
+    <script>
+        function calMultiplication() {
+            
+            let num1 = parseFloat(document.getElementById("num1").value);
+            let num2 = parseFloat(document.getElementById("num2").value);
+
+         
+            if (isNaN(num1) || isNaN(num2)) {
+                document.getElementById("result").innerText = "Giving number is must to perform calculation";
+                return;
+            }
+            //variable to store result
+            let multiplication = num1 * num2;
+
+            // Display the result
+            document.getElementById("result").innerHTML = "The Result is: " + multiplication;
+        }
+
+        function calDivision() {
+        
+            let num1 = parseFloat(document.getElementById("num1").value);
+            let num2 = parseFloat(document.getElementById("num2").value);
+            //checking wheather given num is valid or not (isNan) 
+            if (isNaN(num1) || isNaN(num2)) {
+                document.getElementById("result").innerText = "Please enter valid numbers.";
+                return;
+            }
+
+            let division;
+            //checking whethe given number is not 0...
+            if (num2 !== 0) {
+                division = num1 / num2;
+            } else {
+                division = "Can't be divided by zero";
+            }
+
+           
+            document.getElementById("result").innerHTML = "The Result is : " + division;
+        }
+    </script>
+</body>
+</html>

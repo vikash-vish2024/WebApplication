@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Even odd itteration</title>
+</head>
+<body>
+    <h2>Even Odd Itteration</h2>
+    <h5>Ques: 2</h5>
+    <div id="output"></div>
+
+    <script>
+       
+        let outmsg = "";
+
+        for (let i = 0; i <= 15; i++) {
+            
+            if (i % 2 === 0) {
+            outmsg += "'"+i + " is even'<br\>";
+            } else {
+            outmsg +="'"+ i + " is odd'<br\>";
+            }
+        }
+  
+        document.getElementById("output").innerHTML = outmsg;
+    </script>
+</body>
+</html>
