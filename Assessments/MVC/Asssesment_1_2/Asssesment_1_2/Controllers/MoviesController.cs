@@ -105,14 +105,6 @@ namespace Asssesment_1_2.Controllers
             return RedirectToAction("Index");
         }
 
-        protected override void Dispose(bool disposing)
-        {
-            if (disposing)
-            {
-                db.Dispose();
-            }
-            base.Dispose(disposing);
-        }
 
         //display movie in given year
         public ActionResult ReleasedInYear(int year)
