@@ -115,5 +115,13 @@ namespace Asssesment_1_2.Controllers
             }
             base.Dispose(disposing);
         }
+
+        //display movie in given year
+        public ActionResult ReleasedInYear(int year)
+        {
+            List<Movies> moviesInYear = db.movies.Where(m => m.DateOfRelease.Year == year).ToList();
+            return View(moviesInYear);
+        }
+    
     }
 }
