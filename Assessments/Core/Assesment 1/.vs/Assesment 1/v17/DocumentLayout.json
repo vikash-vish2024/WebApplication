@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Assesments_infinite\\Core\\Assesment 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F90C16-10B9-4482-8576-D017356E9778}|Assesment 1.csproj|d:\\assesments_infinite\\core\\assesment 1\\views\\order\\getorderbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2F90C16-10B9-4482-8576-D017356E9778}|Assesment 1.csproj|solutionrelative:views\\order\\getorderbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F90C16-10B9-4482-8576-D017356E9778}|Assesment 1.csproj|d:\\assesments_infinite\\core\\assesment 1\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F90C16-10B9-4482-8576-D017356E9778}|Assesment 1.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F90C16-10B9-4482-8576-D017356E9778}|Assesment 1.csproj|d:\\assesments_infinite\\core\\assesment 1\\models\\repository\\customerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F90C16-10B9-4482-8576-D017356E9778}|Assesment 1.csproj|solutionrelative:models\\repository\\customerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F90C16-10B9-4482-8576-D017356E9778}|Assesment 1.csproj|d:\\assesments_infinite\\core\\assesment 1\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F90C16-10B9-4482-8576-D017356E9778}|Assesment 1.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F90C16-10B9-4482-8576-D017356E9778}|Assesment 1.csproj|d:\\assesments_infinite\\core\\assesment 1\\views\\customer\\getcustomerwithhighestorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2F90C16-10B9-4482-8576-D017356E9778}|Assesment 1.csproj|solutionrelative:views\\customer\\getcustomerwithhighestorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F90C16-10B9-4482-8576-D017356E9778}|Assesment 1.csproj|d:\\assesments_infinite\\core\\assesment 1\\views\\customer\\getcustomerbyorderdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2F90C16-10B9-4482-8576-D017356E9778}|Assesment 1.csproj|solutionrelative:views\\customer\\getcustomerbyorderdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F90C16-10B9-4482-8576-D017356E9778}|Assesment 1.csproj|d:\\assesments_infinite\\core\\assesment 1\\models\\repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F90C16-10B9-4482-8576-D017356E9778}|Assesment 1.csproj|solutionrelative:models\\repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F90C16-10B9-4482-8576-D017356E9778}|Assesment 1.csproj|d:\\assesments_infinite\\core\\assesment 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F90C16-10B9-4482-8576-D017356E9778}|Assesment 1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F90C16-10B9-4482-8576-D017356E9778}|Assesment 1.csproj|d:\\assesments_infinite\\core\\assesment 1\\views\\order\\allorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2F90C16-10B9-4482-8576-D017356E9778}|Assesment 1.csproj|solutionrelative:views\\order\\allorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F90C16-10B9-4482-8576-D017356E9778}|Assesment 1.csproj|d:\\assesments_infinite\\core\\assesment 1\\views\\order\\placeorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2F90C16-10B9-4482-8576-D017356E9778}|Assesment 1.csproj|solutionrelative:views\\order\\placeorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F90C16-10B9-4482-8576-D017356E9778}|Assesment 1.csproj|d:\\assesments_infinite\\core\\assesment 1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F2F90C16-10B9-4482-8576-D017356E9778}|Assesment 1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Assesments_infinite\\Core\\Assesment 1\\Models\\NorthwindContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\NorthwindContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetOrderById.cshtml",
+              "DocumentMoniker": "D:\\Assesments_infinite\\Core\\Assesment 1\\Views\\Order\\GetOrderById.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\GetOrderById.cshtml",
+              "ToolTip": "D:\\Assesments_infinite\\Core\\Assesment 1\\Views\\Order\\GetOrderById.cshtml",
+              "RelativeToolTip": "Views\\Order\\GetOrderById.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T06:11:03.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\Assesments_infinite\\Core\\Assesment 1\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\Assesments_infinite\\Core\\Assesment 1\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T04:51:37.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\Assesments_infinite\\Core\\Assesment 1\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "D:\\Assesments_infinite\\Core\\Assesment 1\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAwwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T04:51:53.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetCustomerByOrderDate.cshtml",
+              "DocumentMoniker": "D:\\Assesments_infinite\\Core\\Assesment 1\\Views\\Customer\\GetCustomerByOrderDate.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\GetCustomerByOrderDate.cshtml",
+              "ToolTip": "D:\\Assesments_infinite\\Core\\Assesment 1\\Views\\Customer\\GetCustomerByOrderDate.cshtml",
+              "RelativeToolTip": "Views\\Customer\\GetCustomerByOrderDate.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T06:02:35.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerServices.cs",
+              "DocumentMoniker": "D:\\Assesments_infinite\\Core\\Assesment 1\\Models\\Repository\\CustomerServices.cs",
+              "RelativeDocumentMoniker": "Models\\Repository\\CustomerServices.cs",
+              "ToolTip": "D:\\Assesments_infinite\\Core\\Assesment 1\\Models\\Repository\\CustomerServices.cs",
+              "RelativeToolTip": "Models\\Repository\\CustomerServices.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAUwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T04:37:14.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetCustomerWithHighestOrder.cshtml",
+              "DocumentMoniker": "D:\\Assesments_infinite\\Core\\Assesment 1\\Views\\Customer\\GetCustomerWithHighestOrder.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\GetCustomerWithHighestOrder.cshtml",
+              "ToolTip": "D:\\Assesments_infinite\\Core\\Assesment 1\\Views\\Customer\\GetCustomerWithHighestOrder.cshtml",
+              "RelativeToolTip": "Views\\Customer\\GetCustomerWithHighestOrder.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T05:51:41.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AllOrders.cshtml",
+              "DocumentMoniker": "D:\\Assesments_infinite\\Core\\Assesment 1\\Views\\Order\\AllOrders.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\AllOrders.cshtml",
+              "ToolTip": "D:\\Assesments_infinite\\Core\\Assesment 1\\Views\\Order\\AllOrders.cshtml",
+              "RelativeToolTip": "Views\\Order\\AllOrders.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAIwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T05:02:29.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "D:\\Assesments_infinite\\Core\\Assesment 1\\Models\\Repository\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Models\\Repository\\ICustomerRepository.cs",
+              "ToolTip": "D:\\Assesments_infinite\\Core\\Assesment 1\\Models\\Repository\\ICustomerRepository.cs",
+              "RelativeToolTip": "Models\\Repository\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T04:36:16.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlaceOrder.cshtml",
+              "DocumentMoniker": "D:\\Assesments_infinite\\Core\\Assesment 1\\Views\\Order\\PlaceOrder.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\PlaceOrder.cshtml",
+              "ToolTip": "D:\\Assesments_infinite\\Core\\Assesment 1\\Views\\Order\\PlaceOrder.cshtml",
+              "RelativeToolTip": "Views\\Order\\PlaceOrder.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T05:17:41.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Assesments_infinite\\Core\\Assesment 1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Assesments_infinite\\Core\\Assesment 1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T04:27:22.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Assesments_infinite\\Core\\Assesment 1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Assesments_infinite\\Core\\Assesment 1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-08T04:32:24.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NorthwindContext.cs",
+              "DocumentMoniker": "D:\\Assesments_infinite\\Core\\Assesment 1\\Models\\NorthwindContext.cs",
+              "RelativeDocumentMoniker": "Models\\NorthwindContext.cs",
+              "ToolTip": "D:\\Assesments_infinite\\Core\\Assesment 1\\Models\\NorthwindContext.cs",
+              "RelativeToolTip": "Models\\NorthwindContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T04:28:45.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

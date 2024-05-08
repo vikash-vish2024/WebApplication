@@ -1,0 +1,22 @@
+﻿@model Customer
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Highest Order Customer</title>
+</head>
+<body>
+    <h1>Highest Order Customer</h1>
+
+    @if (Model != null)
+    {
+        <p>Customer ID: @Model.CustomerId</p>
+        <!-- Display other customer details as needed -->
+    }
+    else
+    {
+        <p>No customer found.</p>
+    }
+
+</body>
+</html>
